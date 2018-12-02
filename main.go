@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	l "github.com/tigrouxyz/email-suscribe-manager/log"
+	l "github.com/tigrouxyz/email-subscribe-manager/log"
 )
 
 func main() {
